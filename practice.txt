@@ -1,1 +1,2 @@
-
+GitHub on veebiplatvorm projektide salvestamiseks ja haldamiseks Giti versioonikontrollisüsteemi abil.
+Seda kasutavad arendajad, meeskonnad ja organisatsioonid koodi koostööks.
